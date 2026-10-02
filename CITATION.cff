@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite both the software release and the paper below."
+title: "Analysis code for: Effects of selenium on the model cnidarian Exaiptasia diaphana and its symbiotic algae"
+type: software
+authors:
+  - family-names: Younis
+    given-names: Caitlin
+    orcid: "https://orcid.org/0009-0002-7911-8898"
+license: MIT
+repository-code: "https://github.com/caitlinyounis-code/selenium-toxicity-exaiptasia-analysis"
+preferred-citation:
+  type: article
+  title: "Effects of selenium on the model cnidarian Exaiptasia diaphana and its symbiotic algae"
+  authors:
+    - family-names: Younis
+      given-names: Caitlin
+    - family-names: Camp
+      given-names: Emma
+      name-particle: F.
+    - family-names: Raina
+      given-names: Jean-Baptiste
+    - family-names: Cresswell
+      given-names: Tom
+    - family-names: Gissi
+      given-names: Francesca
+  journal: "Aquatic Toxicology"
+  volume: 287
+  start: 107495
+  year: 2025
+  doi: "10.1016/j.aquatox.2025.107495"
